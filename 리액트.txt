@@ -3,7 +3,10 @@ npm i react-router-dom
 npm i sass
 npm install react-slick
 npm install slick-carousel
+npm i react-icons
 
+app.js 언어선택모드 react javascript로 설정
+rafce 입력하면  리액트 기본세팅
 
 리액트 배포
 https://create-react-app.dev/docs/deployment/
@@ -11,7 +14,8 @@ https://create-react-app.dev/docs/deployment/
 
 1.package.json 을열고
 "homepage": "https://myusername.github.io", 항목추가 본인 깃허브 마지막에/붙이지않기
-ex)https://wooohyun.github.io/portfolio09/
+
+ex)  "homepage": "https://wooohyun.github.io/portfolio09/",
 
 
 2.gh-pages 설치
